@@ -1,0 +1,7 @@
+{"Date":7665,"Time":915,"Content":{"POS.SessionLog.DriverDuty":{"Driver":0,"Duty":0}}}
+{"Date":7665,"Time":915,"Content":{"POS.SessionLog.VehicleDuty":{"Vehicle":0,"Duty":0}}}
+{"Date":7665,"Time":915,"Content":{"POS.SessionLog.LineOpen":{"Code":0}}}
+{"Date":7665,"Time":915,"Content":{"POS.SessionLog.StopOpen":{"Code":1}}}
+{"Date":7665,"Time":915,"Content":{"POS.SessionLog.StopClose":{"CheckedIn":0}}}
+{"Date":7665,"Time":915,"Content":{"POS.SessionLog.LineClose":{"JourneyDistance":0}}}
+{"Date":7665,"Time":915,"Content":{"POS.SessionLog.SessionEnd":{"Null":null}}}

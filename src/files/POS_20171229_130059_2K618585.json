@@ -1,0 +1,5 @@
+{"Date":7667,"Time":779,"Content":{"POS.SessionLog.DriverDuty":{"Driver":0,"Duty":0}}}
+{"Date":7667,"Time":779,"Content":{"POS.SessionLog.VehicleDuty":{"Vehicle":0,"Duty":0}}}
+{"Date":7667,"Time":779,"Content":{"POS.SessionLog.LineOpen":{"Code":0}}}
+{"Date":7667,"Time":780,"Content":{"POS.SessionLog.LineClose":{"JourneyDistance":0}}}
+{"Date":7667,"Time":780,"Content":{"POS.SessionLog.SessionEnd":{"Null":null}}}
